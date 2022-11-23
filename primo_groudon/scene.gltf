@@ -1,0 +1,614 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5679,
+      "max": [
+        239.0919952392578,
+        650.3170166015625,
+        498.0450134277344
+      ],
+      "min": [
+        -239.0919952392578,
+        -319.82000732421875,
+        -0.025019999593496323
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 68148,
+      "componentType": 5126,
+      "count": 5679,
+      "max": [
+        1.0,
+        0.9999924302101135,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999921917915344,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5679,
+      "max": [
+        1.0,
+        0.9954100251197815
+      ],
+      "min": [
+        0.0,
+        0.005350000225007534
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 24180,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 136296,
+      "componentType": 5126,
+      "count": 42,
+      "max": [
+        55.812801361083984,
+        -227.8189697265625,
+        416.8900146484375
+      ],
+      "min": [
+        -55.812801361083984,
+        -279.97503662109375,
+        373.52899169921875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 136800,
+      "componentType": 5126,
+      "count": 42,
+      "max": [
+        0.9451990127563477,
+        -0.31858304142951965,
+        0.16794182360172272
+      ],
+      "min": [
+        -0.9451957941055298,
+        -0.5688488483428955,
+        -0.019870635122060776
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 45432,
+      "componentType": 5126,
+      "count": 42,
+      "max": [
+        0.48179998993873596,
+        1.9428800344467163
+      ],
+      "min": [
+        0.018200000748038292,
+        1.7993799448013306
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 45768,
+      "componentType": 5126,
+      "count": 42,
+      "max": [
+        0.48179998993873596,
+        1.9428800344467163
+      ],
+      "min": [
+        0.018200000748038292,
+        1.7993799448013306
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 96720,
+      "componentType": 5125,
+      "count": 144,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 137304,
+      "componentType": 5126,
+      "count": 1929,
+      "max": [
+        205.8579864501953,
+        530.2169799804688,
+        498.0450134277344
+      ],
+      "min": [
+        -205.8579864501953,
+        -298.7270202636719,
+        19.121309280395508
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 160452,
+      "componentType": 5126,
+      "count": 1929,
+      "max": [
+        0.9995541572570801,
+        1.0,
+        0.9999998211860657
+      ],
+      "min": [
+        -0.9995541572570801,
+        -0.9989129900932312,
+        -0.9623221755027771
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 46104,
+      "componentType": 5126,
+      "count": 1929,
+      "max": [
+        2.0918900966644287,
+        8.37926959991455
+      ],
+      "min": [
+        -0.5127300024032593,
+        -2.730940103530884
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 97296,
+      "componentType": 5125,
+      "count": 6870,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 183600,
+      "componentType": 5126,
+      "count": 1929,
+      "max": [
+        205.8579864501953,
+        530.2169799804688,
+        498.0450134277344
+      ],
+      "min": [
+        -205.8579864501953,
+        -298.7270202636719,
+        19.121309280395508
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 206748,
+      "componentType": 5126,
+      "count": 1929,
+      "max": [
+        0.9995541572570801,
+        1.0,
+        0.9999998211860657
+      ],
+      "min": [
+        -0.9995541572570801,
+        -0.9989129900932312,
+        -0.9623221755027771
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 61536,
+      "componentType": 5126,
+      "count": 1929,
+      "max": [
+        1.989740014076233,
+        8.755049705505371
+      ],
+      "min": [
+        -0.5127300024032593,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 124776,
+      "componentType": 5125,
+      "count": 6870,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Robukan (https://sketchfab.com/robukan)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/primo-groudon-d7ca103646e749f3b0ed16e5309343e8",
+      "title": "Primo Groudon"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 152256,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 76968,
+      "byteOffset": 152256,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 229896,
+      "byteOffset": 229224,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 459120,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material___65_baseColor.png"
+    },
+    {
+      "uri": "textures/Material___53_baseColor.png"
+    },
+    {
+      "uri": "textures/Material___54_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "name": "Material___65",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.1024109463,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material___76",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0395178645
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material___53",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Material___54",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "GroudonPrimal_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "GroudonPrimal_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6,
+            "TEXCOORD_1": 7
+          },
+          "indices": 8,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "GroudonPrimal_MagmaLayer2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TEXCOORD_0": 11
+          },
+          "indices": 12,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "GroudonPrimal_MagmaLayer1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TEXCOORD_0": 15
+          },
+          "indices": 16,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        4,
+        7,
+        9,
+        11
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        -0.29086000000000006,
+        0.9551700000000001,
+        -0.05519000000000001,
+        0.0,
+        -0.7711,
+        -0.19988000000000003,
+        0.6045200000000001,
+        0.0,
+        0.5663900000000001,
+        0.21839000000000003,
+        0.7946700000000001,
+        0.0,
+        2.02574,
+        6.5034600000000005,
+        5.903860000000001,
+        1.0
+      ],
+      "name": "Lamp"
+    },
+    {
+      "name": "Lamp"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "matrix": [
+        0.014990000000000002,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.014990000000000002,
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.014990000000000002,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GroudonPrimal"
+    },
+    {
+      "mesh": 0,
+      "name": "GroudonPrimal_0"
+    },
+    {
+      "mesh": 1,
+      "name": "GroudonPrimal_1"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.014990000000000002,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.014990000000000002,
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.014990000000000002,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GroudonPrimal_MagmaLayer2"
+    },
+    {
+      "mesh": 2,
+      "name": "GroudonPrimal_MagmaLayer2_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        0.014990000000000002,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.014990000000000002,
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.014990000000000002,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GroudonPrimal_MagmaLayer1"
+    },
+    {
+      "mesh": 3,
+      "name": "GroudonPrimal_MagmaLayer1_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        -0.29086000000000006,
+        0.9551700000000001,
+        -0.05519000000000001,
+        0.0,
+        -0.7711,
+        -0.19988000000000003,
+        0.6045200000000001,
+        0.0,
+        0.5663900000000001,
+        0.21839000000000003,
+        0.7946700000000001,
+        0.0,
+        0.6752900000000002,
+        -6.2424,
+        5.903860000000001,
+        1.0
+      ],
+      "name": "Lamp.001"
+    },
+    {
+      "name": "Lamp.001"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
